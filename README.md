@@ -14,19 +14,19 @@ Data Cleaning:  Handle missing and problematic data. In this analysis, the 'car'
   were dropped.
   
 # Data Visualization:
-      Visualize the distribution of coupon types using a bar plot.
-      Visualize the distribution of temperature using a histogram.
+   Visualize the distribution of coupon types using a bar plot.
+   Visualize the distribution of temperature using a histogram.
     
 # Bar Coupon Investigation: Focus the analysis on bar-related coupons.
-      Filter the data to include only bar coupons.
-       Calculate the proportion of bar coupons that were accepted.
-       Compare the acceptance rate based on bar visit frequency (3 or fewer times vs. more than 3 times a month).
-       Compare the acceptance rate for specific demographic and contextual groups (e.g., frequent bar goers over 25, frequent bar goers with specific passenger/occupation combinations).
+   Filter the data to include only bar coupons.
+   Calculate the proportion of bar coupons that were accepted.
+   Compare the acceptance rate based on bar visit frequency (3 or fewer times vs. more than 3 times a month).
+   Compare the acceptance rate for specific demographic and contextual groups (e.g., frequent bar goers over 25, frequent bar goers with specific passenger/occupation combinations).
 # Independent Investigation (Coffee House Coupons & other coupon types): Explore the characteristics of passengers who accept Coffee House coupons, mirroring the analysis performed for bar coupons.
-       Filter the data to include only Coffee House coupons.
-       Calculate the proportion of Coffee House coupons that were accepted.
-       Compare acceptance rates based on Coffee House visit frequency.
-       Compare acceptance rates for various combinations of user and contextual attributes (e.g., age, passenger type, income, weather, time, occupation).
+    Filter the data to include only Coffee House coupons.
+    Calculate the proportion of Coffee House coupons that were accepted.
+    Compare acceptance rates based on Coffee House visit frequency.
+    Compare acceptance rates for various combinations of user and contextual attributes (e.g., age, passenger type, income, weather, time, occupation).
 
  # Key Findings :
 
