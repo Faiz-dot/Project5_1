@@ -40,10 +40,10 @@ Data Cleaning:  Handle missing and problematic data. In this analysis, the 'car'
        
   # Comparing more specific groups:
        
-      Group 1 (Bar > once a month, Passenger not kid, not widowed): Approx. 77% acceptance rate.
-      Group 2 (Bar > once a month, Age < 30): Approx. 60% acceptance rate.
-      Group 3 (Cheap Restaurant > 4 times/month, Income < 50K): Approx. 45% acceptance rate.
-      Similar finding where founf on Coffee House copouns.
+   Group 1 (Bar > once a month, Passenger not kid, not widowed): Approx. 77% acceptance rate.
+   Group 2 (Bar > once a month, Age < 30): Approx. 60% acceptance rate.
+   Group 3 (Cheap Restaurant > 4 times/month, Income < 50K): Approx. 45% acceptance rate.
+   Similar finding where founf on Coffee House copouns.
            
 # Further investigation could involve:
 
